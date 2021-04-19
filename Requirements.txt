@@ -1,0 +1,11 @@
+Requirements:
+1) Java version 1.8
+2) Spring Boot Starter Parent version 2.4.4
+3) MongoDB Java Driver dependency version 3.12.7
+Please find other related dependencies and plugins inside pom.xml at root project folder location.
+
+For Front-end:
+1) npm version 6.14.12
+2) node version 14.16.1
+3) React version 17.0.2
+Please find other related dependencies and plugins inside package.json at root project folder location.
